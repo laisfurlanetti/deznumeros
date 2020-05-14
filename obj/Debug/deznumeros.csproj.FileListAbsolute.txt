@@ -1,0 +1,7 @@
+C:\Users\Avatar\Desktop\Aulas\Exercicios repeticao\deznumeros\bin\Debug\deznumeros.exe.config
+C:\Users\Avatar\Desktop\Aulas\Exercicios repeticao\deznumeros\bin\Debug\deznumeros.exe
+C:\Users\Avatar\Desktop\Aulas\Exercicios repeticao\deznumeros\bin\Debug\deznumeros.pdb
+C:\Users\Avatar\Desktop\Aulas\Exercicios repeticao\deznumeros\obj\Debug\deznumeros.csprojAssemblyReference.cache
+C:\Users\Avatar\Desktop\Aulas\Exercicios repeticao\deznumeros\obj\Debug\deznumeros.csproj.CoreCompileInputs.cache
+C:\Users\Avatar\Desktop\Aulas\Exercicios repeticao\deznumeros\obj\Debug\deznumeros.exe
+C:\Users\Avatar\Desktop\Aulas\Exercicios repeticao\deznumeros\obj\Debug\deznumeros.pdb
